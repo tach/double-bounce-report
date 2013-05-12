@@ -13,13 +13,16 @@ Dir.foreach(ARGV[0]) do |mail|
   
   open("#{ARGV[0]}/#{mail}") do |fd|
     fd.each do |line|
-      if /^I tried to deliver .* but the bounce bounced!$/ =~ line
-	fd.gets
-	reason = fd.gets + "    " + fd.gets
-      elsif /^Subject:\s+(.*)/i =~ line
-	subject = $1
-      elsif /^Message-Id:\s+(.*)/i =~ line
-	mesgid = $1
+      begin
+        if /^I tried to deliver .* but the bounce bounced!$/ =~ line
+          fd.gets
+          reason = fd.gets + "    " + fd.gets
+        elsif /^Subject:\s+(.*)/i =~ line
+          subject = $1
+        elsif /^Message-Id:\s+(.*)/i =~ line
+          mesgid = $1
+        end
+      rescue ArgumentError
       end
     end
   end
