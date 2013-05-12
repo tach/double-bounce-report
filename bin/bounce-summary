@@ -35,3 +35,5 @@ Dir.foreach(ARGV[0]) do |mail|
   end
   print "\n"
 end
+
+# vim: ts=2 sw=2 et ft=ruby:
