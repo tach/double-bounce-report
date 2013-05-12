@@ -1,0 +1,41 @@
+#!/bin/bash
+#
+# double bounce report script
+#
+
+dir=$1
+savelog="/usr/bin/savelog -m 0640 -u root -g adm -t -n -q"
+
+if ! [ -d "$dir/new" -a -d "$dir/cur" ]; then
+    echo "Error: you must call with Maildir path." 1>&2
+fi
+
+report="`/root/sbin/bounce-summary $dir/new`"
+
+test -z "$report" && exit 0
+
+# rotate and create logs
+$savelog /var/log/double-bounce.log
+
+echo "Subject: double bounce report by `hostname`
+X-Sender: $0
+MIME-Version: 1.0
+Content-Type: text/plain
+
+/*********************
+   This is automatic double bounce report.
+   You can find these messages at \`${dir}/cur'.
+   (NOTICE: Expire these when next report.)
+                                       *********************/
+
+$report" >> /var/log/double-bounce.log
+#$report" | sendmail `whoami`
+
+# expire
+(
+cd $dir/cur
+rm -f *
+cd $dir/new
+mv -f * ../cur
+)
+

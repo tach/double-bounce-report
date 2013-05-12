@@ -1,0 +1,37 @@
+#!/usr/bin/ruby
+
+unless test('d', ARGV[0])
+  $stderr.puts "#{ARGV[0]} is not directory! Abort!"
+  exit 1
+end
+
+Dir.foreach(ARGV[0]) do |mail|
+  next unless test('f', "#{ARGV[0]}/#{mail}")
+  subject = nil
+  reason  = nil
+  mesgid  = nil
+  
+  open("#{ARGV[0]}/#{mail}") do |fd|
+    fd.each do |line|
+      if /^I tried to deliver .* but the bounce bounced!$/ =~ line
+	fd.gets
+	reason = fd.gets + "    " + fd.gets
+      elsif /^Subject:\s+(.*)/i =~ line
+	subject = $1
+      elsif /^Message-Id:\s+(.*)/i =~ line
+	mesgid = $1
+      end
+    end
+  end
+  
+  unless reason
+    $stderr.puts mail
+    $stderr.puts "** This message is not qmail style double bounce. **\n"
+  else 
+    puts mail,
+      " Message-Id: #{mesgid}",
+      " Original-Subject: #{subject}",
+      " => #{reason}"
+  end
+  print "\n"
+end
