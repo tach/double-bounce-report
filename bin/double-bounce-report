@@ -4,18 +4,19 @@
 #
 
 dir=$1
-savelog="/usr/bin/savelog -m 0640 -u root -g adm -t -n -q"
+savelog="savelog -m 0640 -u root -g adm -t -n -q"
+logdir=/var/log/double-bounce.log
 
 if ! [ -d "$dir/new" -a -d "$dir/cur" ]; then
     echo "Error: you must call with Maildir path." 1>&2
 fi
 
-report="`/root/sbin/bounce-summary $dir/new`"
+report="`bounce-summary $dir/new`"
 
 test -z "$report" && exit 0
 
 # rotate and create logs
-$savelog /var/log/double-bounce.log
+$savelog $log
 
 echo "Subject: double bounce report by `hostname`
 X-Sender: $0
@@ -28,7 +29,7 @@ Content-Type: text/plain
    (NOTICE: Expire these when next report.)
                                        *********************/
 
-$report" >> /var/log/double-bounce.log
+$report" >> $log
 #$report" | sendmail `whoami`
 
 # expire
@@ -39,3 +40,4 @@ cd $dir/new
 mv -f * ../cur
 )
 
+# vim: ts=4 sw=4 et ft=sh:
