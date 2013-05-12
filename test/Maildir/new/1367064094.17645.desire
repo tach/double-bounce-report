@@ -1,0 +1,90 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 17643 invoked for bounce); 27 Apr 2013 21:01:34 +0900
+Date: 27 Apr 2013 21:01:34 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<rlemos@gliet.edu.cn>:
+202.103.243.111 does not like recipient.
+Remote host said: 550 mailbox rlemos@gliet.edu.cn unavailable (” œ‰≤ª¥Ê‘⁄)
+Giving up on 202.103.243.111.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 17632 invoked for bounce); 27 Apr 2013 21:01:31 +0900
+Date: 27 Apr 2013 21:01:31 +0900
+From: MAILER-DAEMON@example.com
+To: rlemos@gliet.edu.cn
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<natalya@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <rlemos@gliet.edu.cn>
+Received: (qmail 17629 invoked from network); 27 Apr 2013 21:01:31 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 27 Apr 2013 21:01:31 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id E42FB367
+	for <natalya@example.org>; Sat, 27 Apr 2013 21:01:26 +0900 (JST)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on example.com
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.5 required=9.0 tests=FSL_HELO_BARE_IP_1,
+	RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_BRBL_LASTEXT,RCVD_IN_PSBL,RCVD_IN_SORBS_WEB,
+	RCVD_NUMERIC_HELO,TVD_RCVD_IP,TVD_RCVD_IP4,T_RCVD_IN_SEMBLACK
+	autolearn=disabled version=3.3.2
+X-Spam-Report: 
+	*  1.4 FSL_HELO_BARE_IP_1 FSL_HELO_BARE_IP_1
+	*  0.0 TVD_RCVD_IP4 TVD_RCVD_IP4
+	*  0.0 TVD_RCVD_IP TVD_RCVD_IP
+	*  0.9 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  0.0 T_RCVD_IN_SEMBLACK RBL: Received from an IP listed in
+	*      bl.spameatingmonkey.net
+	*      [93.74.35.225 listed in bl.spameatingmonkey.net]
+	*  1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+	*      [93.74.35.225 listed in bb.barracudacentral.org]
+	*  3.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?93.74.35.225>]
+	*  2.7 RCVD_IN_PSBL RBL: Received via a relay in PSBL
+	*      [93.74.35.225 listed in psbl.surriel.com]
+	*  0.6 RCVD_IN_SORBS_WEB RBL: SORBS: sender is an abusable web server
+	*      [93.74.35.225 listed in dnsbl.sorbs.net]
+Received: from 93.74.35.225 (payable-griper.volia.net [93.74.35.225])
+	by example.com (Postfix) with SMTP
+	for <natalya@example.org>; Sat, 27 Apr 2013 21:01:23 +0900 (JST)
+Received: from unknown (HELO tg71xk) ([163.231.59.232])
+	by payable-griper.volia.net with ESMTP; Sat, 27 Apr 2013 14:59:04 +0200
+Message-ID: <000801ce433e$78beb300$a3e73be8@ownerpctg71xk>
+From: "Antony Hatcher" <rlemos@gliet.edu.cn>
+To: <natalya@example.org>
+Subject: Could be a Buyout Candidate?
+Date: Sat, 27 Apr 2013 14:48:23 +0200
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-2";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+
+Why Pemex could fancy in S_C X N? ExxonMobil nets $9 Bill following 
+Arkansas Oil Flow. Green may apply S_C X N mechanism. Parliament to lift 
+the todays restrictions facing large Oil. As traders we should earn from 
+Huge Oil, alongside lessen tomorrows disasters. Participate huge Oil kept 
+obliged by participating S_C X N on Apr 29!!!

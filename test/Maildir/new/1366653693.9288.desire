@@ -1,0 +1,71 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 9286 invoked for bounce); 23 Apr 2013 03:01:33 +0900
+Date: 23 Apr 2013 03:01:33 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<husvhfy@ablab.com>:
+207.155.249.116 does not like recipient.
+Remote host said: 550 <husvhfy@ablab.com>: Recipient address rejected: No such user [18NAUNJTTD00]
+Giving up on 207.155.249.116.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 9273 invoked for bounce); 23 Apr 2013 03:01:22 +0900
+Date: 23 Apr 2013 03:01:22 +0900
+From: MAILER-DAEMON@example.com
+To: husvhfy@ablab.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<inti@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <husvhfy@ablab.com>
+Received: (qmail 9270 invoked from network); 23 Apr 2013 03:01:22 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 23 Apr 2013 03:01:22 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id C375C3F2
+	for <inti@example.org>; Tue, 23 Apr 2013 03:01:18 +0900 (JST)
+Received: from 93.72.169.69 (lacking.sounder.volia.net [93.72.169.69])
+	by example.com (Postfix) with SMTP
+	for <inti@example.org>; Tue, 23 Apr 2013 03:01:11 +0900 (JST)
+Received: from unknown (HELO fde) ([83.99.37.24])
+	by 93.72.169.69 with ESMTP; Mon, 22 Apr 2013 21:05:28 +0200
+Message-ID: <001a01ce3f83$5d766930$53632518@ooHPfde>
+From: "Ruth Copeland" <husvhfy@ablab.com>
+To: <inti@example.org>
+Subject: MoneyTree Early Bird Notice
+Date: Mon, 22 Apr 2013 20:57:29 +0200
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+Could S CX_N be the future buy out target for British Petroleum?
+BP spent 40 Billion cleaning it's latest oil leakage. What 
+amount should Brit Petroleum pay to minimize this 40 Billion 
+spending, minimize damage to the environment and firm's 
+reputation?
+Scout Exploration Inc provides a new and crucial tool for oil 
+spill solution. Purchase S CX_N until it establishes it's business 
+potential grab shares below $1 on Mon, April 22!
+

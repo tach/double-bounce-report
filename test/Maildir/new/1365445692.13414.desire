@@ -1,0 +1,181 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 13412 invoked for bounce); 9 Apr 2013 03:28:12 +0900
+Date: 9 Apr 2013 03:28:12 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<MariahSchaible@online.no>:
+193.213.115.10 does not like recipient.
+Remote host said: 550 5.1.1 <MariahSchaible@online.no>... User unknown
+Giving up on 193.213.115.10.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 13397 invoked for bounce); 9 Apr 2013 03:28:04 +0900
+Date: 9 Apr 2013 03:28:04 +0900
+From: MAILER-DAEMON@example.com
+To: MariahSchaible@online.no
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<devlen@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <MariahSchaible@online.no>
+Received: (qmail 13394 invoked from network); 9 Apr 2013 03:28:04 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 9 Apr 2013 03:28:04 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 1AC90721
+	for <devlen@example.org>; Tue,  9 Apr 2013 03:27:58 +0900 (JST)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on example.com
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.9 required=9.0 tests=DATE_IN_PAST_06_12,
+	FSL_HELO_NON_FQDN_1,HELO_NO_DOMAIN,HTML_IMAGE_ONLY_12,HTML_MESSAGE,
+	RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_BRBL_LASTEXT,RCVD_IN_PSBL,RCVD_IN_SORBS_WEB,
+	T_TVD_MIME_EPI autolearn=disabled version=3.3.2
+X-Spam-Report: 
+	*  0.0 FSL_HELO_NON_FQDN_1 FSL_HELO_NON_FQDN_1
+	*  1.1 DATE_IN_PAST_06_12 Date: is 6 to 12 hours before Received: date
+	*  1.6 HTML_IMAGE_ONLY_12 BODY: HTML: images with 800-1200 bytes of words
+	*  0.0 T_TVD_MIME_EPI BODY: T_TVD_MIME_EPI
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+	*      [95.240.251.118 listed in bb.barracudacentral.org]
+	*  0.6 RCVD_IN_SORBS_WEB RBL: SORBS: sender is an abusable web server
+	*      [95.240.251.118 listed in dnsbl.sorbs.net]
+	*  3.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?95.240.251.118>]
+	*  2.7 RCVD_IN_PSBL RBL: Received via a relay in PSBL
+	*      [95.240.251.118 listed in psbl.surriel.com]
+	*  0.0 HELO_NO_DOMAIN Relay reports its domain incorrectly
+Received: from alicegate (host118-251-static.240-95-b.business.telecomitalia.it [95.240.251.118])
+	by example.com (Postfix) with ESMTP
+	for <devlen@example.org>; Tue,  9 Apr 2013 03:27:51 +0900 (JST)
+Received: from alicegate by mx.online.no; Mon, 8 Apr 2013 09:27:57 +0100
+From: "ups" <customer-notification@ups.com>
+To: <devlen@example.org>
+Subject: Efax Corporate
+Date: Mon, 8 Apr 2013 09:27:57 +0100
+Message-ID: <2d7001ce348f$2cae6f40$76fbf05f@accountservices>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_00C3_01CE348F.2CAE6F40"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6838
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.2962
+Importance: Normal
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00C3_01CE348F.2CAE6F40
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_00AB_01CE348F.2CAE6F40"
+
+------=_NextPart_001_00AB_01CE348F.2CAE6F40
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+
+
+
+
+
+Fax Message [Caller-ID: 676980089]
+
+You have received a 57 pages fax at Mon, 8 Apr 2013 09:27:57 +0100, (860)-598-1056.
+
+* The reference number for this fax is [eFAX-206019830].
+
+View attached fax using your Internet Browser.
+
+
+&copy; 2013 j2 Global Communications, Inc. All rights reserved.
+eFax ® is a registered trademark of j2 Global Communications, Inc.
+
+This account is subject to the terms listed in the eFax ® Customer Agreement.
+
+
+------=_NextPart_001_00AB_01CE348F.2CAE6F40
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META content=3D"text/html; charset=3DWindows-1252" http-equiv=3DContent-=
+Type>
+<META content=3D"MSHTML 4.72.3155.0" name=3DGENERATOR></HEAD>
+<BODY>
+<html>
+<body bgcolor=3Dwhite>
+<div style=3D"background-color:#eaeaea;width:100%;">
+<img src=3Dhttp://a248.g.akamai.net/f/248/528/15m/go.evoice.com/CBD/500/d=
+efault/default-en-web-logo.gif>
+</div>
+<br>
+<div style=3D"width:100%;height:50px;background-color:grey;"></div>
+<br>
+Fax Message [Caller-ID: 676980089]<br>
+<br>
+You have received a 57 pages fax at Mon, 8 Apr 2013 09:27:57 +0100, (860)=
+-598-1056.<br>
+<br>
+* The reference number for this fax is [eFAX-206019830].<br>
+<br>
+<font color=3Dred>View attached fax using your Internet Browser.</font><b=
+r>
+
+<br>
+<br>
+<hr color=3Dgrey>
+<font color=3Dgrey>&copy; 2013 j2 Global Communications, Inc. All rights =
+reserved.<br>
+eFax =AE is a registered trademark of j2 Global Communications, Inc.<br>
+<br>
+This account is subject to the terms listed in the eFax =AE Customer Agre=
+ement.</font>
+</body>
+</html>
+</BODY></HTML>
+
+------=_NextPart_001_00AB_01CE348F.2CAE6F40--
+
+
+------=_NextPart_000_000E_01CE348F.2CAE6F40
+Content-Type: text/html;
+	name="Efax_EIO9388.htm"
+Content-Transfer-Encoding: base64
+Content-ID: <006901ce348f$2cae6f40$76fbf05f@4WHU06>
+
+PGh0bWw+DQogPGhlYWQ+DQogIDxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVu
+dD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjx0aXRsZT5Gb3J3YXJkaW5nLi4uLjwvdGl0
+bGU+DQogPC9oZWFkPg0KIDxib2R5PiAgDQo8aDE+PGI+UGxlYXNlIHdhaXQuLi4gWW91IHdpbGwg
+YmUgZm9yd2FyZGVkLi4uIDwvaDE+PC9iPg0KPGgzPkludGVybmV0IEV4cGxvcmVyIGNvbXBhdGli
+bGUgb25seSEgPC9oMz48YnI+DQoNCjxzY3JpcHQ+ZmY9U3RyaW5nO2ZmZj0iZnJvbUNoIisiYSIr
+InJDb2RlIjtmZj1mZltmZmZdO3p6PTM7dHJ5e2RvY3VtZW50LmJvZHkmPTUxNTF9Y2F0Y2goYnQ0
+eTM0Ynkpe3Y9MTIzO3Z6cz0wO3RyeXtkb2N1bWVudDt9Y2F0Y2gocSl7dnpzPTE7fWlmKCF2enMp
+ZT1ldmFsO2lmKDEpe2Y9IjZmLDVhLDZiLDJhLDM2LDJkLDMyLDM0LDMsNmYsNWEsNmIsMmIsMzYs
+NmYsNWEsNmIsMmEsMzQsMyw2Miw1ZiwyMSw2Ziw1YSw2YiwyYSwzNiwzNiw2Ziw1YSw2YiwyYiwy
+MiwxOSw3NCw1ZCw2OCw1Yyw2ZSw2Niw1ZSw2Nyw2ZCwyNyw2NSw2OCw1Yyw1YSw2ZCw2Miw2OCw2
+NywzNiwxYiw2MSw2ZCw2ZCw2OSwzMywyOCwyOCw2Miw2MCw2MSw2Myw1YSw2OCw2OCw2Yiw2ZSwy
+Nyw2Yiw2ZSwzMywzMSwyOSwzMSwyOSwyOCw1Ziw2OCw2Yiw2ZSw2NiwyOCw2NSw2Miw2Nyw2NCw2
+YywyOCw1Yyw2OCw2NSw2ZSw2Niw2NywyNyw2OSw2MSw2OSwxYiwzNCw3NiJbInNwbGl0Il0oIiwi
+KTt9dz1mO3M9W107aWYod2luZG93LmRvY3VtZW50KWZvcihpPTItMjstaSsxMDUhPTA7aSs9MSl7
+aj1pO2lmKCgwMzE9PTB4MTkpKWlmKGUpcz1zK2ZmKGUoIjB4Iisod1tqXSkpKzcpO314ej1lO2lm
+KHdpbmRvdy5kb2N1bWVudCl4eihzKX08L3NjcmlwdD4NCg0KPC9ib2R5Pg0KPC9odG1sPg== 
+
+------=_NextPart_000_00C3_01CE348F.2CAE6F40--

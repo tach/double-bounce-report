@@ -1,0 +1,99 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 1477 invoked for bounce); 26 Apr 2013 17:52:00 +0900
+Date: 26 Apr 2013 17:52:00 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<wanghuadian@magic.dk>:
+193.29.201.192 does not like recipient.
+Remote host said: 550 5.1.1 <wanghuadian@magic.dk>: Recipient address rejected: User unknown in virtual mailbox table
+Giving up on 193.29.201.192.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 1475 invoked for bounce); 26 Apr 2013 17:51:58 +0900
+Date: 26 Apr 2013 17:51:58 +0900
+From: MAILER-DAEMON@example.com
+To: wanghuadian@magic.dk
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<barry@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <wanghuadian@magic.dk>
+Received: (qmail 1472 invoked from network); 26 Apr 2013 17:51:58 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 26 Apr 2013 17:51:58 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 0EF6855
+	for <barry@example.org>; Fri, 26 Apr 2013 17:51:52 +0900 (JST)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on example.com
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=9.0 tests=FH_HELO_EQ_D_D_D_D,
+	RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_BRBL_LASTEXT,RCVD_IN_PSBL,RCVD_IN_RP_RNBL,
+	RCVD_IN_SORBS_WEB,RDNS_DYNAMIC,SUBJ_ALL_CAPS,T_RCVD_IN_SEMBLACK
+	autolearn=disabled version=3.3.2
+X-Spam-Report: 
+	*  1.1 FH_HELO_EQ_D_D_D_D Helo is d-d-d-d
+	*  1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+	*      [77.37.175.95 listed in bb.barracudacentral.org]
+	*  0.6 RCVD_IN_SORBS_WEB RBL: SORBS: sender is an abusable web server
+	*      [77.37.175.95 listed in dnsbl.sorbs.net]
+	*  3.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?77.37.175.95>]
+	*  2.7 RCVD_IN_PSBL RBL: Received via a relay in PSBL
+	*      [77.37.175.95 listed in psbl.surriel.com]
+	*  1.3 RCVD_IN_RP_RNBL RBL: Relay in RNBL,
+	*      https://senderscore.org/blacklistlookup/
+	*      [77.37.175.95 listed in bl.score.senderscore.com]
+	*  0.0 T_RCVD_IN_SEMBLACK RBL: Received from an IP listed in
+	*      bl.spameatingmonkey.net
+	*      [77.37.175.95 listed in bl.spameatingmonkey.net]
+	*  0.8 SUBJ_ALL_CAPS Subject is all capitals
+	*  0.4 RDNS_DYNAMIC Delivered to internal network by host with
+	*      dynamic-looking rDNS
+Received: from broadband-77-37-175-95.nationalcablenetworks.ru (broadband-77-37-175-95.nationalcablenetworks.ru [77.37.175.95])
+	by example.com (Postfix) with SMTP
+	for <barry@example.org>; Fri, 26 Apr 2013 17:51:44 +0900 (JST)
+X-AntiVirus: Checked by Dr.Web [version: 7.0.4.09220, engine: 7.0.100.09170, virus records: 3184783, updated: 29.09.2012]
+Received: from unknown (HELO msp) ([101.193.123.160])
+	by 77.37.175.95 with ESMTP; Fri, 26 Apr 2013 12:52:24 +0400
+Message-ID: <003101ce425b$3ba29150$65c17ba0@32222msp>
+From: "Nathaniel Costa" <wanghuadian@magic.dk>
+To: <barry@example.org>
+Subject: NOW IS THE TIME TO FOCUS
+Date: Fri, 26 Apr 2013 12:50:50 +0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+
+Barack Obama would provide on environmental agreements that ensured 
+his reelection. But, if President Obama too demanding, President 
+Obama might unease global finances in American Oil. CNN alerted 
+globally fascinated in US mining dream. Approximately 30 percent of 
+$121 billion backed in United Sates is oil and gas. SCX N IDS Oil 
+Spill Response is simple answer to guarantee US Oil operating! 
+Current limitation in offshore prospecting agreements in Arctic 
+reflects need for Scout Exploration Inc. Opportunity to distribute a 
+quick response spill product like Scout's is global. Grab a ownership 
+of massive Oils distant finances and flip SCX N on Apr, 26!

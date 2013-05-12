@@ -1,0 +1,91 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 32162 invoked for bounce); 12 Apr 2013 17:15:52 +0900
+Date: 12 Apr 2013 17:15:52 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<watchfulnesswpx@admail.com.ar>:
+Sorry, I wasn't able to establish an SMTP connection. (#4.4.1)
+I'm not going to try again; this message has been in the queue too long.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 25989 invoked for bounce); 9 Apr 2013 14:08:11 +0900
+Date: 9 Apr 2013 14:08:11 +0900
+From: MAILER-DAEMON@example.com
+To: watchfulnesswpx@admail.com.ar
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<dededd@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <watchfulnesswpx@admail.com.ar>
+Received: (qmail 25986 invoked from network); 9 Apr 2013 14:08:11 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 9 Apr 2013 14:08:11 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id A202A11BD
+	for <dededd@example.net>; Tue,  9 Apr 2013 14:08:07 +0900 (JST)
+Received: from rrcs-64-183-125-221.west.biz.rr.com (rrcs-64-183-125-221.west.biz.rr.com [64.183.125.221])
+	by example.com (Postfix) with ESMTP
+	for <dededd@example.net>; Tue,  9 Apr 2013 14:08:01 +0900 (JST)
+Received: from [140.192.4.125] (helo=ybqzzuiohmgl.higwwh.com)
+	by rrcs-64-183-125-221.west.biz.rr.com with esmtpa (Exim 4.69)
+	(envelope-from )
+	id 1MMHXY-6052bc-K4
+	for dededd@example.net; Mon, 8 Apr 2013 21:08:07 -0800
+From: <dededd@example.net>
+To: <dededd@example.net>
+Subject: Va invitam sa lucrati in timpul liber pentru o remunerare de 100 euro pe ora si mai mult. 
+Date: Mon, 8 Apr 2013 21:08:07 -0800
+MIME-Version: 1.0
+Content-Type: text/html
+	charset="Windows-1252"
+X-Priority: 3
+X-Mailer: qbvdzxu.02
+Message-ID: <9445099316.6C8D5E1Q732455@dbrehb.oxyaxyc.ru>
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3DWindows-1=
+252">
+<STYLE></STYLE>
+</HEAD>
+<BODY>
+Companie internationala cauta o persoana pentru a plasa un manager region=
+al.<br>
+<br>
+<b>Calific&#259;rile necesare</b>:<br>
+- Computer<br>
+- Experienta de dorit, dar nu este necesar&#259; &#238;n internet marketi=
+ng<br>
+- O abordare pozitiv&#259;<br>
+- fiabilitatea &#537;i coeren&#539;a<br>
+- dorin&#539;a de a lucra<br>
+- Abilitatea de a lucra &#238;n echip&#259;<br>
+<br>
+<b>Compania noastra ofera</b>:<br>
+- oportunitate pentru dezvoltarea profesional&#259;<br>
+- salarii decente<br>
+- un mediu de lucru modern si placut. Daca sunteti interesati, ne puteti =
+trimite un e-mail sau sunati-ne.<br>
+<br>
+Trimite&#355;i cererea la emailul meu <b>Hughes@ejobsro.com.</b> &#351;i =
+v&#259; voi r&#259;spunde personal &#238;n decurs de dou&#259; zile lucr&=
+#259;toare. <br>
+<br>
+
+</BODY></HTML>

@@ -1,0 +1,73 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 27260 invoked for bounce); 17 Apr 2013 06:17:20 +0900
+Date: 17 Apr 2013 06:17:20 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<jan.lobo@mari-el.ru>:
+77.40.0.46 does not like recipient.
+Remote host said: 550 5.1.1 <jan.lobo@mari-el.ru>: Recipient address rejected: User unknown in local recipient table
+Giving up on 77.40.0.46.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 27258 invoked for bounce); 17 Apr 2013 06:17:19 +0900
+Date: 17 Apr 2013 06:17:19 +0900
+From: MAILER-DAEMON@example.com
+To: jan.lobo@mari-el.ru
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<sfoywlkyykul@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <jan.lobo@mari-el.ru>
+Received: (qmail 27255 invoked from network); 17 Apr 2013 06:17:19 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 17 Apr 2013 06:17:19 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id E52A474C
+	for <sfoywlkyykul@example.net>; Wed, 17 Apr 2013 06:17:15 +0900 (JST)
+Received: from 1.175.138.187 (1-175-138-187.dynamic.hinet.net [1.175.138.187])
+	by example.com (Postfix) with SMTP
+	for <sfoywlkyykul@example.net>; Wed, 17 Apr 2013 06:17:12 +0900 (JST)
+Received: from unknown (HELO caet) ([114.80.145.188])
+	by 1.175.138.187 with ESMTP; Wed, 17 Apr 2013 05:18:30 +0800
+Message-ID: <002a01ce3ae7$b71b5040$725091bc@Ustinnkwrl1bcaet>
+From: "Betsy Wooten" <jan.lobo@mari-el.ru>
+To: <sfoywlkyykul@example.net>
+Subject: This Company is Pick of the Day
+Date: Wed, 17 Apr 2013 05:12:03 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-2";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+my, Make sure (email me) Short Term Trade Coming! It is very 
+undervalued!
+
+Trading Date: April 17
+Company: PacWest Equities Inc
+Traded as: P W_EI
+Now: 0.179
+Short Term Target: 0.50
+
+This Pick will Excite you! News!!!
+

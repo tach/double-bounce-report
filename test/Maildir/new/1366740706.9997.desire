@@ -1,0 +1,98 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 9995 invoked for bounce); 24 Apr 2013 03:11:46 +0900
+Date: 24 Apr 2013 03:11:46 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<aslfafasdjfsd@rosco.ru>:
+194.126.203.28 does not like recipient.
+Remote host said: 550 <aslfafasdjfsd@rosco.ru>, Recipient unknown
+Giving up on 194.126.203.28.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 9993 invoked for bounce); 24 Apr 2013 03:11:45 +0900
+Date: 24 Apr 2013 03:11:45 +0900
+From: MAILER-DAEMON@example.com
+To: aslfafasdjfsd@rosco.ru
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<jaime.jeffersonxd@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <aslfafasdjfsd@rosco.ru>
+Received: (qmail 9990 invoked from network); 24 Apr 2013 03:11:45 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 24 Apr 2013 03:11:45 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id E564F1A
+	for <jaime.jeffersonxd@example.org>; Wed, 24 Apr 2013 03:11:41 +0900 (JST)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on example.com
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=9.0 tests=FSL_HELO_BARE_IP_1,
+	LOTS_OF_MONEY,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_BRBL_LASTEXT,RCVD_IN_PSBL,
+	RCVD_IN_RP_RNBL,RCVD_IN_SORBS_WEB,RCVD_NUMERIC_HELO,TVD_RCVD_IP,TVD_RCVD_IP4,
+	T_RCVD_IN_SEMBLACK autolearn=disabled version=3.3.2
+X-Spam-Report: 
+	*  1.4 FSL_HELO_BARE_IP_1 FSL_HELO_BARE_IP_1
+	*  0.0 TVD_RCVD_IP4 TVD_RCVD_IP4
+	*  0.0 TVD_RCVD_IP TVD_RCVD_IP
+	*  0.9 RCVD_NUMERIC_HELO Received: contains an IP address used for HELO
+	*  1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+	*      [187.162.52.218 listed in bb.barracudacentral.org]
+	*  0.6 RCVD_IN_SORBS_WEB RBL: SORBS: sender is an abusable web server
+	*      [187.162.52.218 listed in dnsbl.sorbs.net]
+	*  3.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?187.162.52.218>]
+	*  0.0 T_RCVD_IN_SEMBLACK RBL: Received from an IP listed in
+	*      bl.spameatingmonkey.net
+	*      [187.162.52.218 listed in bl.spameatingmonkey.net]
+	*  2.7 RCVD_IN_PSBL RBL: Received via a relay in PSBL
+	*      [187.162.52.218 listed in psbl.surriel.com]
+	*  1.3 RCVD_IN_RP_RNBL RBL: Relay in RNBL,
+	*      https://senderscore.org/blacklistlookup/
+	*      [187.162.52.218 listed in bl.score.senderscore.com]
+	*  0.0 LOTS_OF_MONEY Huge... sums of money
+Received: from 187.162.52.218 (187-162-52-218.static.axtel.net [187.162.52.218])
+	by example.com (Postfix) with SMTP
+	for <jaime.jeffersonxd@example.org>; Wed, 24 Apr 2013 03:11:35 +0900 (JST)
+Received: from unknown (HELO entx) ([150.118.150.114])
+	by 187.162.52.218 with ESMTP; Tue, 23 Apr 2013 13:18:09 -0600
+Message-ID: <001101ce404e$69594d50$96769672@PC103051110entx>
+From: "Samson Walter" <aslfafasdjfsd@rosco.ru>
+To: <jaime.jeffersonxd@example.org>
+Subject: This Company is Lookin to Rebound to Higher Highs
+Date: Tue, 23 Apr 2013 13:11:24 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+Our newest pick - Best Profit Generating Field Rectifying the 
+Oil Leakage: Who is Getting Profit? NY analysts predicted that 
+Brit Petrol will dedicate $14 billion to $26 bill on fixing. 
+Clear Harbors of Norwell, Mass., is predicted to make $326 
+million from the Gulf spill in 2014. S C X_N IDS Oil-Spill 
+Response Solution presents a better and essential solution for 
+oil spill response. Add S C X_N before it jumps a $1! It 
+reached 40 cent in one day! Grab shares below dollar on April, 
+23.

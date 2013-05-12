@@ -1,0 +1,116 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 6896 invoked for bounce); 25 Apr 2013 16:59:18 +0900
+Date: 25 Apr 2013 16:59:18 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<jarredttq@livenirvana.com>:
+217.16.2.109 does not like recipient.
+Remote host said: 550 No Such User Here"
+Giving up on 217.16.2.109.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 6883 invoked for bounce); 25 Apr 2013 16:59:16 +0900
+Date: 25 Apr 2013 16:59:16 +0900
+From: MAILER-DAEMON@example.com
+To: jarredttq@livenirvana.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<kde@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <jarredttq@livenirvana.com>
+Received: (qmail 6879 invoked from network); 25 Apr 2013 16:59:16 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 25 Apr 2013 16:59:16 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 8A2591A30
+	for <kde@example.org>; Thu, 25 Apr 2013 16:59:12 +0900 (JST)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on example.com
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.1 required=9.0 tests=FH_HELO_EQ_D_D_D_D,
+	FM_SEX_HELODDDD,HELO_DYNAMIC_IPADDR2,HTML_IMAGE_ONLY_08,HTML_MESSAGE,
+	HTML_SHORT_LINK_IMG_1,RCVD_IN_BRBL_LASTEXT,RCVD_IN_SORBS_DUL,RDNS_DYNAMIC,
+	TVD_RCVD_IP,T_RCVD_IN_SEMBLACK,T_REMOTE_IMAGE,T_URIBL_SEM,T_URIBL_SEM_RED
+	autolearn=disabled version=3.3.2
+X-Spam-Report: 
+	*  3.9 HELO_DYNAMIC_IPADDR2 Relay HELO'd using suspicious hostname (IP addr
+	*       2)
+	*  1.1 FH_HELO_EQ_D_D_D_D Helo is d-d-d-d
+	*  0.0 TVD_RCVD_IP TVD_RCVD_IP
+	*  0.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+	*      [114.37.141.209 listed in dnsbl.sorbs.net]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.8 HTML_IMAGE_ONLY_08 BODY: HTML: images with 400-800 bytes of words
+	*  1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+	*      [114.37.141.209 listed in bb.barracudacentral.org]
+	*  0.0 T_RCVD_IN_SEMBLACK RBL: Received from an IP listed in
+	*      bl.spameatingmonkey.net
+	*      [114.37.141.209 listed in bl.spameatingmonkey.net]
+	*  0.0 T_URIBL_SEM Contains a URI listed in uribl.spameatingmonkey.net
+	*      [URIs: stick.kz]
+	*  0.0 T_URIBL_SEM_RED Contains a URI listed in urired.spameatingmonkey.net
+	*      [URIs: stick.kz]
+	*  0.4 RDNS_DYNAMIC Delivered to internal network by host with
+	*      dynamic-looking rDNS
+	*  0.1 HTML_SHORT_LINK_IMG_1 HTML is very short with a linked image
+	*  1.1 FM_SEX_HELODDDD Sex words + helo = dddd
+	*  0.0 T_REMOTE_IMAGE Message contains an external image
+Received: from 114-37-141-209.dynamic.hinet.net (114-37-141-209.dynamic.hinet.net [114.37.141.209])
+	by example.com (Postfix) with ESMTP
+	for <kde@example.org>; Thu, 25 Apr 2013 16:59:06 +0900 (JST)
+Received: from apache by odpwfppbpifpbgptipmipfdag. with local (Exim 4.63)
+	(envelope-from <ignorantlyewu1@ponyexpress.net>)
+	id Q7RT3E-ZLAV95-U0
+	for <kde@example.org>; Thu, 25 Apr 2013 15:59:11 +0800
+To: <kde@example.org>
+Subject: New closed social network for Russian girls available, and foreigners.
+Date: Thu, 25 Apr 2013 15:59:11 +0800
+From: "Jody Mahoney" <jarredttq@livenirvana.com>
+Message-ID: <5A5B2A1B327D154A1B958716F76CC1AB@odpwfppbpifpbgptipmipfdag.>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------03050500709060909010804"
+
+This is a multi-part message in MIME format.
+--------------03050500709060909010804
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="Windows-1252"
+
+New private social network for Russian sexy ladies and foreign men.If you want to talk about sex with pretty girls then this is for you!I decided to find a girl his future wife, for regular correspondence and not just join us! Free Registration!!! >>
+
+--------------03050500709060909010804
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="windows-1250"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <p>New private social network for Russian sexy ladies and foreign men.</p>
+<p>If you want to talk about sex with pretty girls then this is for you!</p>
+<p>I decided to find a girl his future wife, for regular correspondence and not just join us!<a href="http://goo.gl/w99CG"> Free Registration!!! >>
+<a href='http://goo.gl/w99CG' ><img src='http://stick.kz/img/2013-04/23/swredm1vg8oxsfyw7a3k6jt9x.jpg' /></a>
+
+  </body>
+</html>
+
+--------------03050500709060909010804--

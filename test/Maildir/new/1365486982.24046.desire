@@ -1,0 +1,110 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 24044 invoked for bounce); 9 Apr 2013 14:56:22 +0900
+Date: 9 Apr 2013 14:56:22 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<swamihqt75@twaron.com>:
+64.235.154.66 does not like recipient.
+Remote host said: 550 No such user (swamihqt75@twaron.com)
+Giving up on 64.235.154.66.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 24035 invoked for bounce); 9 Apr 2013 14:56:19 +0900
+Date: 9 Apr 2013 14:56:19 +0900
+From: MAILER-DAEMON@example.com
+To: swamihqt75@twaron.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<emqml@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+<lmqa77@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+<infod@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+<zodaye-qes@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+<zaxalu@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <swamihqt75@twaron.com>
+Received: (qmail 24024 invoked from network); 9 Apr 2013 14:56:19 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 9 Apr 2013 14:56:19 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 0624711BD;
+	Tue,  9 Apr 2013 14:56:16 +0900 (JST)
+Received: from vodafone.it (net-188-219-33-26.cust.dsl.vodafone.it [188.219.33.26])
+	by example.com (Postfix) with ESMTP;
+	Tue,  9 Apr 2013 14:56:09 +0900 (JST)
+Received: from [201.35.131.61] (account wallflowers7@luther.k12.wi.us HELO fgddirjka.khslajbc.info)
+	by vodafone.it (CommuniGate Pro SMTP 5.2.3)
+	with ESMTPA id 330199401 for zaxalu@example.net; Tue, 9 Apr 2013 06:56:15 +0100
+From: <zaxalu@example.net>,
+	<emqml@example.net>,
+	<lmqa77@example.net>,
+	<zodaye-qes@example.net>,
+	<infod@example.net>
+To: <zaxalu@example.net>,
+	<emqml@example.net>,
+	<lmqa77@example.net>,
+	<zodaye-qes@example.net>,
+	<infod@example.net>
+Subject: Multi oameni sunt dispusi sa va plateasca pentru ajutorul acordat in timpul liber. Ajutati acesti oameni. 
+Date: Tue, 9 Apr 2013 06:56:15 +0100
+MIME-Version: 1.0
+Content-Type: text/html
+	charset="us-ascii"
+X-Priority: 3
+X-Mailer: uiimwtpr.91
+Message-ID: <3611610541.07UG5L30549712@vchuki.yejrixg.net>
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii"=
+>
+<STYLE></STYLE>
+</HEAD>
+<BODY>
+Companie internationala cauta o persoana pentru a plasa un manager region=
+al.<br>
+<br>
+<b>Calific&#259;rile necesare</b>:<br>
+- Computer<br>
+- Experienta de dorit, dar nu este necesar&#259; &#238;n internet marketi=
+ng<br>
+- O abordare pozitiv&#259;<br>
+- fiabilitatea &#537;i coeren&#539;a<br>
+- dorin&#539;a de a lucra<br>
+- Abilitatea de a lucra &#238;n echip&#259;<br>
+<br>
+<b>Compania noastra ofera</b>:<br>
+- oportunitate pentru dezvoltarea profesional&#259;<br>
+- salarii decente<br>
+- un mediu de lucru modern si placut. Daca sunteti interesati, ne puteti =
+trimite un e-mail sau sunati-ne.<br>
+<br>
+Trimite&#355;i cererea la emailul meu <b>Crawford@ejobsro.com.</b> &#351;=
+i v&#259; voi r&#259;spunde personal &#238;n decurs de dou&#259; zile luc=
+r&#259;toare. <br>
+<br>
+
+</BODY></HTML>

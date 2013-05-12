@@ -1,0 +1,115 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 12413 invoked for bounce); 11 Apr 2013 01:57:09 +0900
+Date: 11 Apr 2013 01:57:09 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<profitv3@iztzg.hr>:
+161.53.93.126 does not like recipient.
+Remote host said: 550 5.1.1 User unknown
+Giving up on 161.53.93.126.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 12370 invoked for bounce); 11 Apr 2013 01:56:58 +0900
+Date: 11 Apr 2013 01:56:58 +0900
+From: MAILER-DAEMON@example.com
+To: profitv3@iztzg.hr
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<infodd@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <profitv3@iztzg.hr>
+Received: (qmail 12367 invoked from network); 11 Apr 2013 01:56:58 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 11 Apr 2013 01:56:58 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id AB38512C2
+	for <infodd@example.net>; Thu, 11 Apr 2013 01:56:52 +0900 (JST)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on example.com
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=9.0 tests=FH_HELO_ALMOST_IP,
+	FH_HOST_EQ_DYNAMICIP,HELO_DYNAMIC_SPLIT_IP,HTML_MESSAGE,MIME_HTML_ONLY,
+	RCVD_IN_BRBL_LASTEXT,RCVD_IN_SORBS_DUL,RDNS_DYNAMIC,T_RCVD_IN_SEMBLACK
+	autolearn=disabled version=3.3.2
+X-Spam-Report: 
+	*  2.5 FH_HOST_EQ_DYNAMICIP Host is dynamicip
+	*  2.9 HELO_DYNAMIC_SPLIT_IP Relay HELO'd using suspicious hostname (Split
+	*      IP)
+	*  3.3 FH_HELO_ALMOST_IP Helo is almost an IP addr.
+	*  1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+	*      [83.59.21.98 listed in bb.barracudacentral.org]
+	*  0.0 RCVD_IN_SORBS_DUL RBL: SORBS: sent directly from dynamic IP address
+	*      [83.59.21.98 listed in dnsbl.sorbs.net]
+	*  0.0 T_RCVD_IN_SEMBLACK RBL: Received from an IP listed in
+	*      bl.spameatingmonkey.net
+	*      [83.59.21.98 listed in bl.spameatingmonkey.net]
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  1.1 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.4 RDNS_DYNAMIC Delivered to internal network by host with
+	*      dynamic-looking rDNS
+Received: from 98.Red-83-59-21.dynamicIP.rima-tde.net (98.Red-83-59-21.dynamicIP.rima-tde.net [83.59.21.98])
+	by example.com (Postfix) with ESMTP
+	for <infodd@example.net>; Thu, 11 Apr 2013 01:56:46 +0900 (JST)
+Received: from [48.37.193.53] (helo=dvilikmfqq.ptuowmwhsntf.ua)
+	by 98.Red-83-59-21.dynamicIP.rima-tde.net with esmtpa (Exim 4.69)
+	(envelope-from )
+	id 1MM8AT-6212zq-VN
+	for infodd@example.net; Wed, 10 Apr 2013 17:56:52 +0100
+From: <infodd@example.net>
+To: <infodd@example.net>
+Subject: Cautam asistenti in orasul dvs. pentru o munca de la distanta bine platita. 
+Date: Wed, 10 Apr 2013 17:56:52 +0100
+MIME-Version: 1.0
+Content-Type: text/html
+	charset="windows-1250"
+X-Priority: 3
+X-Mailer: mcfplzjgzc-88
+Message-ID: <3153857703.EBZFU67Z370051@prhcuez.fmtnvmksovlin.ru>
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-1=
+250">
+<STYLE></STYLE>
+</HEAD>
+<BODY>
+Companie internationala cauta o persoana pentru a plasa un manager region=
+al.<br>
+<br>
+<b>Calific&#259;rile necesare</b>:<br>
+- Computer<br>
+- Experienta de dorit, dar nu este necesar&#259; &#238;n internet marketi=
+ng<br>
+- O abordare pozitiv&#259;<br>
+- fiabilitatea &#537;i coeren&#539;a<br>
+- dorin&#539;a de a lucra<br>
+- Abilitatea de a lucra &#238;n echip&#259;<br>
+<br>
+<b>Compania noastra ofera</b>:<br>
+- oportunitate pentru dezvoltarea profesional&#259;<br>
+- salarii decente<br>
+- un mediu de lucru modern si placut. Daca sunteti interesati, ne puteti =
+trimite un e-mail sau sunati-ne.<br>
+<br>
+Trimite&#355;i cererea la emailul meu <b>Leach@ejobsro.com.</b> &#351;i v=
+&#259; voi r&#259;spunde personal &#238;n decurs de dou&#259; zile lucr&#=
+259;toare. <br>
+<br>
+
+</BODY></HTML>

@@ -1,0 +1,70 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 6576 invoked for bounce); 22 Apr 2013 01:04:29 +0900
+Date: 22 Apr 2013 01:04:29 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<cjsfae@astravan.com>:
+66.39.2.48 does not like recipient.
+Remote host said: 554 5.7.1 <cjsfae@astravan.com>: Recipient address rejected: Access denied
+Giving up on 66.39.2.48.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 6574 invoked for bounce); 22 Apr 2013 01:04:28 +0900
+Date: 22 Apr 2013 01:04:28 +0900
+From: MAILER-DAEMON@example.com
+To: cjsfae@astravan.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<ni@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <cjsfae@astravan.com>
+Received: (qmail 6571 invoked from network); 22 Apr 2013 01:04:28 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 22 Apr 2013 01:04:28 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 32CDA72C
+	for <ni@example.org>; Mon, 22 Apr 2013 01:04:24 +0900 (JST)
+Received: from 93.84.168.120 (mm-120-168-84-93.dynamic.pppoe.mgts.by [93.84.168.120])
+	by example.com (Postfix) with SMTP
+	for <ni@example.org>; Mon, 22 Apr 2013 01:04:20 +0900 (JST)
+Received: from unknown (HELO 3mu54g) ([128.234.68.218])
+	by 93.84.168.120 with ESMTP; Sun, 21 Apr 2013 18:58:04 +0300
+Message-ID: <000701ce3ea0$7c0c1860$80ea44da@microsof84f9053mu54g>
+From: "Hugh Santos" <cjsfae@astravan.com>
+To: <ni@example.org>
+Subject: It closes strong! Research tonight!
+Date: Sun, 21 Apr 2013 18:54:33 +0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+Could S CXN become the next buy out candidate for Brit Petroleum?
+BP invested 34 Bill cleaning their last oil spill. How much can 
+British Petroleum pay to eliminate its 34 Bill spending, reduce 
+pollution to the planet and firm's reputation?
+Scout Exploration Inc. provides a new and important tool for oil 
+spill response. Buy S CXN till it establishes it's market potential 
+trade shares below $1 on Monday, Apr 22, 2013!
+

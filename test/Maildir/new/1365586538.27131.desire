@@ -1,0 +1,82 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 27129 invoked for bounce); 10 Apr 2013 18:35:38 +0900
+Date: 10 Apr 2013 18:35:38 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<disrepute758@pacunion.com>:
+72.5.1.204 does not like recipient.
+Remote host said: 550 No such user (disrepute758@pacunion.com)
+Giving up on 72.5.1.204.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 27107 invoked for bounce); 10 Apr 2013 18:35:36 +0900
+Date: 10 Apr 2013 18:35:36 +0900
+From: MAILER-DAEMON@example.com
+To: disrepute758@pacunion.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<give@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+<hpjg66@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+<naevm@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <disrepute758@pacunion.com>
+Received: (qmail 27100 invoked from network); 10 Apr 2013 18:35:36 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 10 Apr 2013 18:35:36 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 3EA6E1353;
+	Wed, 10 Apr 2013 18:35:31 +0900 (JST)
+Received: from host52-159-static.30-87-b.business.telecomitalia.it (host52-159-static.30-87-b.business.telecomitalia.it [87.30.159.52])
+	by example.com (Postfix) with ESMTP;
+	Wed, 10 Apr 2013 18:35:28 +0900 (JST)
+Date: Wed, 10 Apr 2013 10:35:31 +0100
+From: <give@example.net>,
+	<hpjg66@example.net>,
+	<naevm@example.net>
+To: <give@example.net>,
+	<hpjg66@example.net>,
+	<naevm@example.net>
+Subject: Cautam asistenti in orasul dvs. pentru o munca de la distanta bine platita. 
+X-Mailer: ortr
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset=iso-8859-2
+Content-Transfer-Encoding: 7bit
+
+Companie internationala cauta o persoana pentru a plasa un manager regional.<br>
+<br>
+<b>Calific&#259;rile necesare</b>:<br>
+- Computer<br>
+- Experienta de dorit, dar nu este necesar&#259; &#238;n internet marketing<br>
+- O abordare pozitiv&#259;<br>
+- fiabilitatea &#537;i coeren&#539;a<br>
+- dorin&#539;a de a lucra<br>
+- Abilitatea de a lucra &#238;n echip&#259;<br>
+<br>
+<b>Compania noastra ofera</b>:<br>
+- oportunitate pentru dezvoltarea profesional&#259;<br>
+- salarii decente<br>
+- un mediu de lucru modern si placut. Daca sunteti interesati, ne puteti trimite un e-mail sau sunati-ne.<br>
+<br>
+Trimite&#355;i cererea la emailul meu <b>Hatch@ejobsro.com.</b> &#351;i v&#259; voi r&#259;spunde personal &#238;n decurs de dou&#259; zile lucr&#259;toare. <br>
+<br>
+

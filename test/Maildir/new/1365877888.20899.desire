@@ -1,0 +1,73 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 20897 invoked for bounce); 14 Apr 2013 03:31:28 +0900
+Date: 14 Apr 2013 03:31:28 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<czelissen@ku-ma.net>:
+112.78.112.74 does not like recipient.
+Remote host said: 553 5.3.0 <czelissen@ku-ma.net>... User unknown, not local address
+Giving up on 112.78.112.74.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 20895 invoked for bounce); 14 Apr 2013 03:31:28 +0900
+Date: 14 Apr 2013 03:31:28 +0900
+From: MAILER-DAEMON@example.com
+To: czelissen@ku-ma.net
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<f1ail264hel9ll6j@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <czelissen@ku-ma.net>
+Received: (qmail 20892 invoked from network); 14 Apr 2013 03:31:28 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 14 Apr 2013 03:31:28 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 211E5705
+	for <f1ail264hel9ll6j@example.org>; Sun, 14 Apr 2013 03:31:24 +0900 (JST)
+Received: from 37.116.237.248 (net-2-35-213-51.cust.dsl.vodafone.it [2.35.213.51])
+	by example.com (Postfix) with SMTP
+	for <f1ail264hel9ll6j@example.org>; Sun, 14 Apr 2013 03:31:20 +0900 (JST)
+Received: from unknown (HELO iwf) ([236.134.152.133])
+	by net-2-35-213-51.cust.dsl.vodafone.it with ESMTP; Sat, 13 Apr 2013 22:34:19 +0400
+Message-ID: <000a01ce3875$1ff1c330$ec869885@329daeaa54d7452iwf>
+From: "Pauline Rios" <czelissen@ku-ma.net>
+To: <f1ail264hel9ll6j@example.org>
+Subject: This Company May Be The Next Big Runner!
+Date: Sat, 13 Apr 2013 22:24:42 +0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+
+Wonderful news for L BTG - Liberty Coal Energy Inc. - that will 
+earn huge returns!
+
+Takeover offers are back on the table that will drive L BTG 
+prices up to the $.20 - $.30 range. Right now L BTG is selling 
+for a very low price, so the upside is amazing! Even Management 
+want to acquire L BTG because of their seemingly unlimited coal 
+assets that can draw out shale oil. Move fast to make money on 
+this news prior to other investors. Buy all the L BTG you can 
+get on Apr 15th.
+

@@ -1,0 +1,73 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 19078 invoked for bounce); 16 Apr 2013 01:41:26 +0900
+Date: 16 Apr 2013 01:41:26 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<vadali_p@net1.it>:
+217.22.224.65 does not like recipient.
+Remote host said: 550 5.1.1 <vadali_p@net1.it>: Recipient address rejected: User unknown in virtual mailbox table
+Giving up on 217.22.224.65.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 15193 invoked for bounce); 16 Apr 2013 01:34:44 +0900
+Date: 16 Apr 2013 01:34:44 +0900
+From: MAILER-DAEMON@example.com
+To: vadali_p@net1.it
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<info@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <vadali_p@net1.it>
+Received: (qmail 15190 invoked from network); 16 Apr 2013 01:34:44 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 16 Apr 2013 01:34:44 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id A3F66F70
+	for <info@example.net>; Tue, 16 Apr 2013 01:34:40 +0900 (JST)
+Received: from 37.45.128.135 (mm-198-173-84-93.dynamic.pppoe.mgts.by [93.84.173.198])
+	by example.com (Postfix) with SMTP
+	for <info@example.net>; Tue, 16 Apr 2013 01:34:33 +0900 (JST)
+Received: from unknown (HELO rd12p) ([32.235.125.118])
+	by 93.84.173.198 with ESMTP; Mon, 15 Apr 2013 19:36:11 +0200
+Message-ID: <002d01ce39ff$1f2f4b80$20eb7d76@microsofbb61c9rd12p>
+From: "Simmy Rasmussen" <vadali_p@net1.it>
+To: <info@example.net>
+Subject: This Company Is Ready to Run Strong! Check Out This
+Date: Mon, 15 Apr 2013 19:28:46 +0200
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="windows-1250";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1437
+
+Wonderful information for LB_T G - Liberty Coal - that will produce 
+huge returns!!!
+
+Acquisition plans are heating up that will drive LB_T G prices up to 
+the $.20 - $.30 range. Today LB_T G is selling for pennies, so the 
+money to be made is huge! Other companies want to acquire LB_T G 
+because of their seemingly unlimited coal assets that can produce 
+shale oil. Take action now to make money on this acquisition ahead 
+of other investors. Buy every share of LB_T G you can possibly get 
+on Apr, 15th!!!
+

