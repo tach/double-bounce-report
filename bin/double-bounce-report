@@ -2,6 +2,8 @@
 #
 # double bounce report script
 #
+# Original script is located at
+# https://github.com/tach/double-bounce-report
 
 dir=$1
 savelog="savelog -m 0640 -u root -g adm -t -n -q"

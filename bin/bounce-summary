@@ -1,4 +1,7 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
+#
+# Original script is located at
+# https://github.com/tach/double-bounce-report
 
 unless test('d', ARGV[0])
   $stderr.puts "#{ARGV[0]} is not directory! Abort!"
